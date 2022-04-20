@@ -30,6 +30,13 @@ p {
     font-weight: normal;
 }
 
+.home {
+    background-color: white;
+}
+
+body {
+    background-color: rgb(55, 11, 189);
+}
 
 
 
