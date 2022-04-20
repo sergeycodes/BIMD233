@@ -1,0 +1,35 @@
+hr {
+    border-style: dotted none none;
+    border-color: #C8C2BC;
+    border-width: 5px;
+    width: 60px;
+    }
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    }
+
+td {
+    border: 2px solid rgb(0, 0, 0);
+    text-align: left;
+    }
+
+body {
+    color: white;
+}
+
+p {
+    font-size: 20px; 
+}
+
+.SB {
+    font-size: 30px;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+
+
+
+
