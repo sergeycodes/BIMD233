@@ -28,7 +28,7 @@ p {
 .SB {
     font-size: 30px;
     color: #66BFBF;
-    font-weight: normal;
+    font-weight: 900;
 }
 
 .home {
@@ -61,3 +61,17 @@ body {
     margin-right: auto;
     width: 50%;
 }
+
+.weblayout {
+    position: relative;
+    left: 300px;
+
+}
+
+.center {
+    position: relative;
+    top: 50%;
+    width: 10%;
+    text-align: center;
+    font-size: 18px;
+  }
